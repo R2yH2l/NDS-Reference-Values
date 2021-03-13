@@ -1,3 +1,3 @@
 # NDS-Reference-Values
-Create a file path data\tables\ were you store the .exe.
-Or just download the example.
+Download the zip and place NDS-Refrence-Values.exe.
+In the example dir and run.
