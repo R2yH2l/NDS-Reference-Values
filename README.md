@@ -9,7 +9,6 @@ The line in question is "Select Structural, open grain","2"" & Wider",1100,625,1
 
 ### Searching Tables
  Now that we've registered Douglas Fir-Larch.csv we can search through. All we need to do is enter the name it's name "Douglas Fir Larch" without any dashs, caps dont matter. The program will print out a formatted table for us to look through. This is great and all but we can narrow down the search more. Same as last time enter the table but add a dash and a grain "Douglas Fir Larch-Select Structural". The program will narrow down the search to just that line.
-This is all I have for now but I will be adding more in the future. 
 
 ### Notes
-Please let me know of any bugs you find miss spellings, errors, incorrect formatting, ect. Also tell me any features you would want added.
+This is all I have for now but I will be adding more in the future. Please let me know of any bugs you find miss spellings, errors, incorrect formatting, ect.
